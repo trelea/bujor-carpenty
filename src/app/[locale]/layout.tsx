@@ -1,7 +1,9 @@
-import { NextIntlClientProvider } from "next-intl";
-import { getMessages } from "next-intl/server";
-import { notFound } from "next/navigation";
-import { routing } from "@/i18n/routing";
+import { NextIntlClientProvider } from 'next-intl';
+import { getMessages } from 'next-intl/server';
+import { notFound } from 'next/navigation';
+import { routing } from '@/i18n/routing';
+import Layout from '@/components/Layout';
+import '../globals.css';
 
 export default async function LocaleLayout({
   children,
@@ -11,7 +13,7 @@ export default async function LocaleLayout({
   params: Promise<{ locale: string }>;
 }) {
   const locale = await (await params).locale;
-  if (!routing.locales.includes(locale as any)) {
+  if (!routing.locales.includes(locale as 'ro' | 'ru' | 'en')) {
     notFound();
   }
 
@@ -19,9 +21,9 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale}>
-      <body>
+      <body className='scroll-smooth'>
         <NextIntlClientProvider messages={messages}>
-          <main>{children}</main>
+          <Layout>{children}</Layout>
         </NextIntlClientProvider>
       </body>
     </html>

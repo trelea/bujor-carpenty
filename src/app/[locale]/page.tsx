@@ -1,12 +1,17 @@
-import { useTranslations } from "next-intl";
-import { Link } from "@/i18n/routing";
+import AboutUs from '@/components/AboutUs/AboutUs';
+import Analitycs from '@/components/Analitycs/Analitycs';
+import HomeHero from '@/components/HomeHero';
+import WhyUs from '@/components/WhyUs/WhyUs';
+import Work from '@/components/Work/Work';
 
 export default function HomePage() {
-  const t = useTranslations("HomePage");
   return (
-    <div>
-      <h1>{t("title")}</h1>
-      <Link href="/about">{t("about")}</Link>
-    </div>
+    <>
+      <HomeHero />
+      <AboutUs />
+      <WhyUs />
+      <Work />
+      <Analitycs />
+    </>
   );
 }

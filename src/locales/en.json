@@ -1,6 +1,166 @@
 {
-  "HomePage": {
-    "title": "Hello world!",
-    "about": "Go to the about page"
+  "navbar": {
+    "menu": "MENU",
+    "cupboards": "CUPBOARDS",
+    "kitchens": "KITCHENS",
+    "personalize": "CUSTOMIZE",
+    "libraries": "LIBRARIES AND SHELVES",
+    "furnitures": "TV AND MEDIA FURNITURE",
+    "custom": "CUSTOM WORKS",
+    "projects": "DESIGN",
+    "contacts": "CONTACTS"
+  },
+
+  "footer": {
+    "text": "Furniture that brings life to your space - designed with passion, created with mastery!",
+    "links": {
+      "title": "LINKS",
+      "cupboards": "Cupboards",
+      "kitchens": "Kitchens",
+      "projects": "Design",
+      "personalize": "Customize",
+      "deposit": "Storage"
+    },
+    "contacts": "CONTACTS"
+  },
+
+  "landing": {
+    "hero_title": "Create your perfect space with",
+    "hero_highlight": "Our Services.",
+    "banner_1": {
+      "title": "Custom Design",
+      "btn": "LEARN MORE"
+    },
+    "about_us": {
+      "title": "Who",
+      "title_high": "we are",
+      "desc": "Passion for design, quality and innovation <br></br> in every piece of furniture",
+      "p1": "We are a company specialized in making <b1>cupboards, kitchens</b1> and <b2>custom furniture</b2>, handcrafted. We offer our clients high-quality products and transform their spaces and homes.",
+      "p2": "At <b>Bujor Carpentry</b>, we are dedicated to designing and creating functional and aesthetic furniture pieces. We ensure we fulfill any wish of our clients, delivering products in the shortest possible time. We are an independent business and pride ourselves on the excellent services provided to our clients. Additionally, we work exclusively with eco-friendly materials, thus contributing to environmental protection."
+    },
+
+    "why_us": {
+      "title": "Why",
+      "title_high": "choose us?",
+      "desc": "Custom, quality furniture, created <br></br> for a unique and durable space",
+      "section_1": {
+        "title": "Quality and Durability:",
+        "p1": "We are dedicated to creating comprehensive solutions for furnishing and building your spaces. Not only do we create furniture that looks good and stands the test of time, but we also handle the design and construction of wooden houses, offering services that combine aesthetics, functionality, and durability.",
+        "p2": "Choosing high-quality materials is essential for us. We work with top suppliers who provide wood, finishes, and accessories resistant to daily wear and tear, as well as temperature and humidity changes. These characteristics make our products and constructions ideal for any type of space, from personal homes to commercial projects.",
+        "p3": "Moreover, we are aware of our environmental impact. We choose eco-friendly, sustainable, and safe materials for your health and the health of those around you, whether it's furniture or construction. Whether you want a custom wooden house or furniture that perfectly matches your style, we are here to transform your vision into reality."
+      },
+      "section_2": {
+        "title": "Comprehensive Services:",
+        "p1": "We offer a complete package of services, which includes not just creating custom furniture, but also consultation, design, delivery, and installation. Our team of designers collaborates with you to understand your exact needs and create solutions that perfectly integrate into your space.",
+        "p2": "We also manage the entire project logistics, from material procurement to furniture delivery and installation at the desired location, so you don't have to worry about anything. Each step of the process is carefully planned and executed, ensuring you have a pleasant and stress-free experience throughout the entire project."
+      },
+      "section_3": {
+        "title": "Quick Delivery:",
+        "p1": "We know how important it is to have functional and aesthetic furniture in a short time, especially when you're in the middle of a renovation or construction project. That's why we work with a well-structured process that allows us to deliver finished products quickly, without compromising on quality.",
+        "p2": "Our well-trained and experienced team manages all stages, from precise measurements to final installation, so you can enjoy your new furniture pieces in a much shorter time than expected. We prioritize meeting established deadlines, ensuring you can complete your project according to your plan."
+      },
+      "section_4": {
+        "title": "Custom Design:",
+        "p1": "We believe that every space has the potential to be transformed into a unique place that reflects the personality and style of its inhabitant. That's why we offer personalized design services that begin with a detailed understanding of your preferences.",
+        "p2": "Each piece of furniture is created specifically to perfectly fit the dimensions and aesthetics of your space, with the design adapted to your functional requirements, such as storage, accessibility, or lighting. Additionally, we offer a wide range of finish and material options to help you achieve exactly the result you want. We guide you step by step to ensure that every detail is perfect and that the final furniture is harmoniously integrated into your home."
+      },
+      "btn": "MORE DETAILS"
+    },
+
+    "banner_2": {
+      "title": "Custom Wooden Furniture",
+      "btn": "LEARN MORE"
+    },
+
+    "work": {
+      "title": "Recent",
+      "title_high": "Works",
+      "desc": "We create custom, handmade furniture, including kitchens, <br></br> cupboards and alcove pieces, durable and perfect for your home",
+      "w1": "Customized Wardrobe <br></br> with TV Space",
+      "w2": "High-Quality <br></br> Wooden Furniture",
+      "w3": "Table with Custom <br></br> Design",
+      "w4": "Modern Ceramic <br></br> Washbasins",
+      "w5": "Interior Staircase with <br></br> Carved Wooden Balustrades",
+      "w6": "Customized Niche <br></br> Under the Slope",
+      "w7": "High-Quality Black <br></br> Wooden Furniture",
+      "w8": "Elegant Wardrobe, Integrated <br></br> with a Drawer Table",
+      "w9": "Modern Custom <br></br> Kitchen",
+      "btn": "See More"
+    },
+
+    "analityc": {
+      "a1": "Satisfied <br></br> Clients",
+      "a2": "Years of <br></br> Experience",
+      "a3": "Loyal <br></br> Clients"
+    }
+  },
+
+  "cupboards": {
+    "main_title": "Custom Wardrobes",
+    "desc1": "<b>Our custom wardrobes</b> made by hand are designed to last over time and become elegant and functional pieces of furniture, perfectly adapted to each room. They transform both the appearance and utility of the space, making it a pleasant and comfortable place.",
+    "desc2": "Each wardrobe is carefully planned to maximize every corner of the room and create a personalized interior, according to our clients' wishes. We use only high-quality components, including soft-close hinges and drawer slides. Wardrobes are handmade using traditional carpentry techniques, and finishes can be chosen from a wide range: from a modern spray finish to a classic, manually painted one.",
+    "title": "Recent",
+    "title_high": "works",
+    "p": "These wardrobes are reliable solutions that meet customers' needs in every <br></br> room of the house: attics, living rooms, pantries, or bedrooms."
+  },
+
+  "kitchens": {
+    "main_title": "Custom Kitchens",
+    "desc1": "<b>Our custom kitchens</b> made by hand are created to combine aesthetics with functionality, perfectly adapting to the needs of each family. Each kitchen transforms not just the appearance, but also the utility of the space, providing a pleasant and efficient environment for cooking and spending time with loved ones.",
+    "desc2": "Each kitchen is designed with attention to maximize the use of every corner and create a personalized design that reflects our clients' wishes. We use only high-quality materials, including soft-close hinges and drawer slides. Kitchens are handmade using traditional carpentry techniques, and finishes can be chosen from a wide range: from a modern spray finish to a classic, manually painted one.",
+    "title": "Recent",
+    "title_high": "works",
+    "p": "Ideal for medium-sized kitchens with independent hobs and generous <b1></b1> storage spaces. Easy to purchase and use, as modules are already <b2></b2> combined into complete solutions."
+  },
+
+  "libraries": {
+    "main_title": "Custom Libraries and Shelves",
+    "desc1": "<b>Our custom, handcrafted library shelves</b> are designed to combine aesthetics with functionality, perfectly adapting to the style and needs of each room. Each shelf not only transforms the look of the room but also how you organize and access books and precious items, offering an elegant and efficient space for reading and relaxation.",
+    "desc2": "We design each shelf with care, maximizing the use of every available corner and creating a unique design that reflects the tastes and desires of our clients. We use only the highest quality materials, including durable joints and solid supports for long-lasting strength. The shelves are handcrafted using traditional woodworking techniques, and finishes can be chosen from a wide range: from a modern finish with white or gray paint to a classic one with a transparent lacquer layer to highlight the natural beauty of the wood.",
+    "title": "Recent",
+    "title_high": "works",
+    "p1": "Everything is within reach in this practical kitchen solution. There's space <br></br> for cooking and, at the same time, a generous storage space.",
+    "p2": "Easy to integrate into any space, it offers an elegant solution for storing books <br></br> and items, remaining the favorite choice of book lovers worldwide."
+  },
+
+  "furnitures": {
+    "main_title": "TV & Media Units",
+    "title": "Recent",
+    "title_high": "works",
+    "p1": "This series of storage solutions is inspired by traditional carpentry, <b1></b1> combining style and functionality for the modern urban lifestyle. <b2></b2> Use it wherever you need storage space and combine it with other furniture pieces <b3></b3> for a customized look.",
+    "p2": "A perfect TV bench, with generous space for equipment and accessories. If <b1></b1> you prefer closed storage, you can add boxes or inserts to the lower <b2></b2> compartments. The open back makes cable management easier!"
+  },
+
+  "custom": {
+    "main_title": "Custom Works",
+    "desc": "At <b>Bujor Carpentry</b>, we understand that every project is unique, and the needs and preferences of our clients are our priority. That's why we offer custom solutions for furniture and wooden constructions, perfectly tailored to your lifestyle and the space you have available.",
+    "title": "Recent",
+    "title_high": "works",
+    "p": "These series have a traditional look, with individual storage units that can be <b1></b1> coordinated. The top panel of the cabinet with a glass door has a warm oak look, offering a pleasant frame for the things you want to display."
+  },
+
+  "projects": {
+    "main_title": "Design Services",
+    "desc1": "We offer a <b>custom design</b> service, where we can create the perfect furniture from the start. Many of our clients have found this process extremely useful as it allows them to visualize the final design of the furniture and request any changes before production. The detailed plans we create are used by our carpenters to build the furniture with millimeter precision, ensuring it fits perfectly in the desired space.",
+    "desc2": "After discussing ideas and reviewing material and finish samples, we will create a <b>3D model</b> of the furniture, complete with dimensions and configuration options.",
+    "desc3": "If necessary, we can also create a <b>custom sample of a design</b>, finish, or color, so you can make an informed choice. We will communicate the cost for the design process before starting, and once you are satisfied with the final proposal, we will provide you with an estimate for the furniture production.",
+    "title": "Recent",
+    "title_high": "works"
+  },
+
+  "contacts": {
+    "main_title": "Contacts",
+    "title": "Leave us a",
+    "title_high": "message",
+    "name": "Name",
+    "surname": "Surname",
+    "email": "Email",
+    "address": "Address",
+    "c_and_q": "Comments / Questions",
+    "comms": "Comments",
+    "send": "SEND",
+    "proc": "PROCESSING",
+    "err": "Error, the data was not sent.",
+    "suc": "Data successfully sent."
   }
 }

@@ -1,6 +1,167 @@
 {
-  "HomePage": {
-    "title": "Bună lume!",
-    "about": "Mergi la pagina despre"
+  "navbar": {
+    "menu": "MENU",
+    "cupboards": "DULAPURI",
+    "kitchens": "BUCATARII",
+    "personalize": "PERSONALIZARE",
+    "libraries": "BIBLIOTECT ȘI RAFTURI",
+    "furnitures": "MOBILIER TV ȘI MEDIA",
+    "custom": "LUCRĂRI LA COMNDĂ",
+    "projects": "PROIECTARE",
+    "contacts": "CONTACTE"
+  },
+
+  "footer": {
+    "text": "Mobilier care dă viață spațiului tău - proiectat cu pasiune, creat cu măiestrie!",
+    "links": {
+      "title": "LINKURI",
+      "cupboards": "Dulapuri",
+      "kitchens": "Bucatarii",
+      "projects": "Proiectare",
+      "personalize": "Personalizare",
+      "deposit": "Depozitare"
+    },
+    "contacts": "CONTACTE"
+  },
+
+  "landing": {
+    "hero_title": "Creează-ți locul perfect cu",
+    "hero_highlight": "Serviciile noastre.",
+    "banner_1": {
+      "title": "Design personalizat",
+      "btn": "AFLĂ MAI MULTE"
+    },
+
+    "about_us": {
+      "title": "Cine",
+      "title_high": "suntem",
+      "desc": "Pasiune pentru design, calitate și inovație <br></br> în fiecare piesă de mobilier",
+      "p1": "Suntem o companie specializată în realizarea de <b1>dulapuri, bucătării</b1> și <b2>mobilier personalizat</b2>, lucrate manual. Oferim clienților noștri produse de calitate superioară și transformăm spațiile și locuințele acestora.",
+      "p2": "La <b>Bujor Carpentry</b>, suntem dedicați designului și creării de piese de mobilier funcționale și estetice. Ne asigurăm că îndeplinim orice dorință a clienților noștri, livrând produsele în cele mai scurte termene de timp. Suntem o afacere independentă și ne mândrim cu serviciile excelente oferite clienților. În plus, lucrăm exclusiv cu materiale eco-friendly, contribuind astfel la protejarea mediului înconjurător."
+    },
+
+    "why_us": {
+      "title": "De ce să ne",
+      "title_high": "alegi pe noi?",
+      "desc": "Mobilier personalizat, de calitate, creat <br></br> pentru un spațiu unic și durabil",
+      "section_1": {
+        "title": "Calitate și durabilitate:",
+        "p1": "Suntem dedicați să creăm soluții complete pentru amenajarea și construirea spațiilor tale. Nu doar că realizăm mobilier care arată bine și rezistă în timp, dar ne ocupăm și de proiectarea și construcția caselor din lemn, oferind servicii care combină estetica, funcționalitatea și durabilitatea.",
+        "p2": "Alegerea materialelor de calitate superioară este esențială pentru noi. Lucrăm cu furnizori de top care oferă lemn, finisaje și accesorii rezistente la uzura zilnică, precum și la schimbările de temperatură și umiditate. Aceste caracteristici fac ca produsele și construcțiile noastre să fie ideale pentru orice tip de spațiu, de la locuințe personale la proiecte comerciale.",
+        "p3": "Totodată, suntem conștienți de impactul asupra mediului. Alegem materiale eco-friendly, sustenabile și sigure pentru sănătatea ta și a celor din jur, fie că este vorba de mobilier, fie de construcții. Indiferent dacă îți dorești o casă din lemn personalizată sau mobilier care să se potrivească perfect stilului tău, suntem aici să transformăm viziunea ta în realitate."
+      },
+      "section_2": {
+        "title": "Servicii complete:",
+        "p1": "Oferim un pachet complet de servicii, care include nu doar realizarea mobilierului personalizat, ci și consultanță, proiectare, livrare și instalare. Echipa noastră de designeri colaborează cu tine pentru a înțelege exact nevoile tale și pentru a crea soluții care să se integreze perfect în spațiul tău.",
+        "p2": "De asemenea, gestionăm întreaga logistică a proiectului, de la achiziția materialelor până la livrarea și montajul mobilierului la locul dorit, astfel încât tu să nu trebuiască să te ocupi de nimic. Fiecare pas al procesului este planificat și executat cu grijă, pentru ca tu să ai o experiență plăcută și fără stres pe parcursul întregului proiect."
+      },
+      "section_3": {
+        "title": "Rapiditate în livrare:",
+        "p1": "Știm cât de important este să ai un mobilier funcțional și estetic într-un timp scurt, mai ales când ești în mijlocul unui proiect de renovare sau construcție. De aceea, lucrăm cu un proces bine structurat care ne permite să livrăm produsele finalizate rapid, fără a face compromisuri la calitate.",
+        "p2": "Echipa noastră bine pregătită și cu experiență gestionează toate etapele, de la măsurători precise până la montajul final, astfel încât să te poți bucura de noile tale piese de mobilier într-un timp mult mai scurt decât te-ai aștepta. Prioritizăm respectarea termenelor stabilite, astfel încât să poți finaliza proiectul în conformitate cu planul tău."
+      },
+      "section_4": {
+        "title": "Proiectare personalizată:",
+        "p1": "Credem că fiecare spațiu are potențialul de a fi transformat într-un loc unic, care reflectă personalitatea și stilul celui care îl locuiește. De aceea, oferim servicii de proiectare personalizată, care încep prin înțelegerea detaliată a preferințelor tale.",
+        "p2": "Fiecare piesă de mobilier este creată special pentru a se potrivi perfect cu dimensiunile și estetica spațiului tău, iar designul este adaptat în funcție de cerințele tale funcționale, cum ar fi depozitarea, accesibilitatea sau iluminarea. În plus, îți oferim o gamă variată de opțiuni de finisaje și materiale, pentru a te ajuta să obții exact rezultatul dorit. Te ghidăm pas cu pas, pentru a te asigura că fiecare detaliu este perfect și că mobilierul final este un element integrat armonios în casa ta."
+      },
+      "btn": "MAI MULTE DETALII"
+    },
+
+    "banner_2": {
+      "title": "Mobilă personalizată din lemn",
+      "btn": "AFLĂ MAI MULTE"
+    },
+
+    "work": {
+      "title": "Lucrări",
+      "title_high": "recente",
+      "desc": "Creăm mobilier personalizat, lucrat manual, inclusiv bucătării, <br></br> dulapuri și piese pentru alcove, durabile și perfecte pentru casa ta",
+      "w1": "Garederobă personalizată <br></br> cu spațiu pentru TV",
+      "w2": "Mobilier din lemn de înaltă <br></br> calitate",
+      "w3": "Masă cu design <br></br> personailzat",
+      "w4": "Lavoare moderne din <br></br> ceramică",
+      "w5": "Scară interioară, cu balustrade <br></br> din lemn sculptat",
+      "w6": "Nișă personalizată <br></br> sub pantă",
+      "w7": "Mobilier din lemn negru, de <br></br> înaltă calitate",
+      "w8": "Dulap elegant, integrat cu <br></br>o masă cu sertare",
+      "w9": "Buncătărie modernă <br></br> personaliată",
+      "btn": "Vezi mai multe"
+    },
+
+    "analityc": {
+      "a1": "Clienți <br></br> satisfăcuți",
+      "a2": "Ani de <br></br> experiență",
+      "a3": "Clienți <br></br> fideli"
+    }
+  },
+
+  "cupboards": {
+    "main_title": "Dulapuri personalizate",
+    "desc1": "<b>Dulapurile noastre personalizate</b> și realizate manual sunt concepute pentru a rezista în timp și a deveni piese de mobilier elegante și funcționale, perfect adaptate fiecărei camere. Acestea transformă atât aspectul, cât și utilitatea spațiului, făcându-l un loc plăcut și confortabil.",
+    "desc2": "Fiecare dulap este planificat cu grijă, pentru a valorifica la maximum fiecare colț al camerei și a crea un interior personalizat, conform dorințelor clienților noștri. Folosim doar componente de înaltă calitate, inclusiv balamale cu închidere lentă și glisiere pentru sertare. Dulapurile sunt realizate manual, folosind tehnici tradiționale de dulgherie, iar finisajele pot fi alese dintr-o gamă variată: de la un finisaj modern, prin pulverizare, până la unul clasic, vopsit manual.",
+    "title": "Lucrări",
+    "title_high": "recente",
+    "p": "Aceste dulapuri sunt soluții de încredere, care răspund nevoilor clienților din fiecare <br></br> cameră a casei: mansarde, sufragerii, cămări sau dormitoare."
+  },
+
+  "kitchens": {
+    "main_title": "Bucătării personalizate",
+    "desc1": "<b>Bucătăriile noastre personalizate</b> și realizate manual sunt create pentru a combina estetica cu funcționalitatea, adaptându-se perfect nevoilor fiecărei familii. Fiecare bucătărie transformă nu doar aspectul, ci și utilitatea spațiului, oferind un mediu plăcut și eficient pentru gătit și petrecut timp alături de cei dragi.",
+    "desc2": "Fiecare bucătărie este proiectată cu atenție, pentru a maximiza utilizarea fiecărui colț și pentru a crea un design personalizat, care reflectă dorințele clienților noștri. Folosim doar materiale de înaltă calitate, inclusiv balamale cu închidere lentă și glisiere pentru sertare. Bucătăriile sunt realizate manual, utilizând tehnici tradiționale de dulgherie, iar finisajele pot fi alese dintr-o gamă variată: de la un finisaj modern, prin pulverizare, la unul clasic, vopsit manual.",
+    "title": "Lucrări",
+    "title_high": "recente",
+    "p": "Ideale pentru bucătării de dimensiuni medii, cu plite independente și spații <b1></b1> generoase de depozitare. Ușor de cumpărat și utilizat, deoarece modulele sunt deja <b2></b2> combinate în soluții complete."
+  },
+
+  "libraries": {
+    "main_title": "Biblioteci și rafturi personalizate",
+    "desc1": "<b>Rafturile noastre de bibliotecă</b> personalizate și realizate manual, sunt create pentru a îmbina estetica cu funcționalitatea, adaptându-se perfect stilului și necesităților fiecărei încăperi. Fiecare raft transformă nu doar aspectul camerei, ci și modul în care organizați și accesați cărțile și obiectele prețioase, oferind un spațiu elegant și eficient pentru citit și relaxare.",
+    "desc2": "Proiectăm fiecare raft cu atenție, astfel încât să maximizăm utilizarea fiecărui colț disponibil și să creăm un design unic, care reflectă gusturile și dorințele clienților noștri. Folosim doar materiale de cea mai bună calitate, inclusiv îmbinări durabile și suporturi solide pentru o rezistență de lungă durată. Rafturile sunt realizate manual, utilizând tehnici tradiționale de prelucrare a lemnului, iar finisajele pot fi alese dintr-o gamă variată: de la un finisaj modern, cu vopsea în nuanțe de alb sau gri, la unul clasic, cu un strat de lac transparent pentru a evidenția frumusețea naturală a lemnului.",
+    "title": "Lucrări",
+    "title_high": "recente",
+    "p1": "Totul este la îndemână în această soluție practică de bucătărie. Ai loc <br></br> pentru gătit și, în același timp, spațiu generos de depozitare.",
+    "p2": "Ușor de integrat în orice spațiu, oferă o soluție elegantă pentru depozitarea cărților <br></br> și obiectelor, rămânând alegerea preferată a iubitorilor de cărți din întreaga lume."
+  },
+
+  "furnitures": {
+    "main_title": "TV & Media Units",
+    "title": "Lucrări",
+    "title_high": "recente",
+    "p1": "Această serie de soluții de depozitare este inspirată de tâmplăria tradițională, <b1></b1> combinând stilul și funcționalitatea pentru stilul de viață urban din zilele noastre. <b2></b2> Utilizați-o oriunde aveți nevoie de spațiu de depozitare și combinați-o cu alte piese <b3></b3> de mobilier pentru un aspect personalizat.",
+    "p2": "O bancă TV perfectă, cu spațiu generos pentru echipamente și accesorii. Dacă <b1></b1> preferați depozitarea închisă, puteți adăuga cutii sau inserții în compartimentele <b2></b2> inferioare. Spatele deschis facilitează gestionarea cablurilor!"
+  },
+
+  "custom": {
+    "main_title": "Lucrări la comandă",
+    "desc": "La <b>Bujor Carpentry</b>, înțelegem că fiecare proiect este unic, iar nevoile și preferințele clienților noștri sunt prioritatea noastră. De aceea, oferim soluții personalizate pentru mobilier și construcții din lemn, adaptate perfect stilului tău de viață și spațiului pe care îl ai la dispoziție.",
+    "title": "Lucrări",
+    "title_high": "recente",
+    "p": "Aceste serii au un aspect tradițional, cu unități de depozitare individuale care pot fi <b1></b1> coordonate. Panoul superior al dulapului cu ușă de sticlă are un aspect cald de <b2></b2> stejar, oferind un cadru plăcut pentru lucrurile pe care vrei să le expui."
+  },
+
+  "projects": {
+    "main_title": "Servicii de proiectare",
+    "desc1": "Oferim un serviciu de <b>design personalizat,</b> prin care vă putem crea mobilierul perfect încă de la început. Mulți dintre clienții noștri au considerat acest proces extrem de util, deoarece le permite să vizualizeze designul final al mobilierului și să solicite eventuale modificări înainte de producție. Planurile detaliate pe care le realizăm sunt utilizate de tâmplarii noștri pentru a construi mobilierul cu o precizie milimetrică, asigurându-ne că se potrivește perfect în spațiul dorit.",
+    "desc2": "După ce discutăm ideile și analizăm mostrele de materiale și finisaje, vom realiza un <b>model 3D</b> al mobilierului, complet cu dimensiuni și opțiuni de configurare.",
+    "desc3": "Dacă este necesar, putem crea și o <b>mostră personalizată a unui design,</b> a unui finisaj sau a unei culori, astfel încât să puteți face o alegere informată. Vă vom comunica costul pentru procesul de design înainte de a începe, iar după ce sunteți mulțumit de propunerea finală, vă vom oferi un deviz pentru realizarea mobilierului.",
+    "title": "Lucrări",
+    "title_high": "recente"
+  },
+
+  "contacts": {
+    "main_title": "Contacte",
+    "title": "Lasă-ne un",
+    "title_high": "mesaj",
+    "name": "Nume",
+    "surname": "Prenume",
+    "email": "Email",
+    "address": "Adresa",
+    "c_and_q": "Comentarii / Întrebări",
+    "comms": "Comentarii",
+    "send": "TRIMITE",
+    "proc": "PROCESARE",
+    "err": "Erroare, datele nu au fost trimise.",
+    "suc": "Date trimise cu cuccess."
   }
 }
